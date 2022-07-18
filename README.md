@@ -46,6 +46,6 @@ import hashlib
 ```
 
 ### Documentation Links (Streamlit, Hashlib, Dataclasses)
-https://docs.streamlit.io/
-https://docs.python.org/3/library/hashlib.html
-https://docs.python.org/3/library/dataclasses.html
+1. https://docs.streamlit.io/
+2. https://docs.python.org/3/library/hashlib.html
+3. https://docs.python.org/3/library/dataclasses.html
