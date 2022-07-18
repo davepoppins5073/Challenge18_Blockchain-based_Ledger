@@ -62,6 +62,15 @@ import hashlib
 ![image](https://user-images.githubusercontent.com/101449950/179438455-d5d6c883-0cdc-4e5c-9f91-745dba7845e5.png)
 
 
+## Testing with StreamLit
 
+<img width="1512" alt="Screen Shot 2022-07-17 at 9 32 20 PM" src="https://user-images.githubusercontent.com/101449950/179440059-8ffa5ebf-c902-4afe-84be-c3dc7d424ad7.png">
+
+
+<img width="1512" alt="Screen Shot 2022-07-17 at 9 32 20 PM" src="https://user-images.githubusercontent.com/101449950/179439985-229b2159-1426-477b-becc-ae53fb1679a8.png">
+
+<img width="1512" alt="Screen Shot 2022-07-17 at 9 32 48 PM" src="https://user-images.githubusercontent.com/101449950/179440010-8d3ad82a-df05-492e-b93b-8f60ab10b47e.png">
+
+<img width="1512" alt="Screen Shot 2022-07-17 at 9 32 48 PM" src="https://user-images.githubusercontent.com/101449950/179440046-7152b0da-f179-4f8d-8e59-6116143846e6.png">
 
 
