@@ -70,6 +70,7 @@ Picture 1:  See the ledger with a few transactions
 Picture 2: See the side bar
 <img width="1512" alt="Screen Shot 2022-07-17 at 9 32 48 PM" src="https://user-images.githubusercontent.com/101449950/179440010-8d3ad82a-df05-492e-b93b-8f60ab10b47e.png">
 
-
+Picture 3: BlockChain Validated
+<img width="1512" alt="Screen Shot 2022-07-17 at 11 15 19 PM" src="https://user-images.githubusercontent.com/101449950/179440406-0f70fcfb-9272-4754-afc4-f502dc192c1d.png">
 
 
