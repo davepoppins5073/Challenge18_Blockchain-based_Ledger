@@ -50,17 +50,18 @@ import hashlib
 2. https://docs.python.org/3/library/hashlib.html
 3. https://docs.python.org/3/library/dataclasses.html
 
-## Code 
+## 4 Code 
 
+### 4.1 Create a Record Data Class
+![image](https://user-images.githubusercontent.com/101449950/179438505-cb528708-78b4-479a-a259-d287381ab396.png)
 
+### 4.2 Modify the Existing Block Data Class to Store Record Data
 ![image](https://user-images.githubusercontent.com/101449950/179438383-048e9963-fabc-409c-b33e-6a2ee163e3dd.png)
 
-
-
+### 4.3 Add Relevant User Inputs to the Streamlit Interface
 ![image](https://user-images.githubusercontent.com/101449950/179438455-d5d6c883-0cdc-4e5c-9f91-745dba7845e5.png)
 
 
 
-![image](https://user-images.githubusercontent.com/101449950/179438505-cb528708-78b4-479a-a259-d287381ab396.png)
 
 
