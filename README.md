@@ -73,4 +73,6 @@ Picture 2: See the side bar
 Picture 3: BlockChain Validated
 <img width="1512" alt="Screen Shot 2022-07-17 at 11 15 19 PM" src="https://user-images.githubusercontent.com/101449950/179440406-0f70fcfb-9272-4754-afc4-f502dc192c1d.png">
 
+picture 4: Perspective from Command line
+<img width="615" alt="Screen Shot 2022-07-17 at 11 26 20 PM" src="https://user-images.githubusercontent.com/101449950/179441190-9ea61e33-e4eb-4404-94b7-ec0343944d5c.png">
 
