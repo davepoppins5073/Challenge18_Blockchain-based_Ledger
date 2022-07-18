@@ -27,7 +27,7 @@ I used the following to create the requirements file
 
 ```
 
-#### pip install for Requirements
+pip install for Requirements Text Files
 ```bash
 python -m pip install -r requirements_10.txt
 ```
@@ -45,3 +45,7 @@ import pandas as pd
 import hashlib
 ```
 
+### Documentation Links (Streamlit, Hashlib, Dataclasses)
+https://docs.streamlit.io/
+https://docs.python.org/3/library/hashlib.html
+https://docs.python.org/3/library/dataclasses.html
